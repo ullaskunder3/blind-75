@@ -5,13 +5,13 @@
 Track your progress and conquer each category with determination! 🚀
 
 ### **Array**
-- [ ] 1. Two Sum  
-- [ ] 2. Best Time to Buy and Sell Stock  
-- [ ] 3. Contains Duplicate  
-- [ ] 4. Product of Array Except Self  
-- [ ] 5. Maximum Subarray  
-- [ ] 6. Maximum Product Subarray  
-- [ ] 7. Find Minimum in Rotated Sorted Array  
+- [ ] [1. Two Sum](Array/1.two-sum.md)  
+- [ ] [2. Best Time to Buy and Sell Stock](Array/2.buy-sell.md)  
+- [ ] [3. Contains Duplicate](Array/3.contains-duplicate.md)  
+- [ ] [4. Product of Array Except Self](Array/4.product-array-except-self.md)  
+- [ ] [5. Maximum Subarray](Array/5.max-sub-array.md)  
+- [ ] [6. Maximum Product Subarray](Array/6.max-product-sub-array.md)  
+- [ ] [7. Find Minimum in Rotated Sorted Array](Array/7.find-min-rotated-sorted-array.md)  
 - [ ] 8. Search in Rotated Sorted Array  
 - [ ] 9. 3Sum  
 - [ ] 10. Container With Most Water  
